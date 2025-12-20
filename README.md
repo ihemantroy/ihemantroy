@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi there 👋 I'm Hemant
 
 I am an aspiring Software Engineer with a strong interest in problem-solving and building reliable software solutions.  
@@ -63,7 +63,7 @@ This portfolio highlights my projects, skills, and learning journey as a softwar
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
+- LinkedIn: https://www.linkedin.com/in/ihemantroy/  
 - Portfolio: https://heyhemant.vercel.app  
 
 ---
