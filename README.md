@@ -6,7 +6,6 @@
   <a href="https://heyhemant.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C5CFF?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/ihemantroy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ihemantroy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://heyhemant.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-7C5CFF?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=ihemantroy&style=flat-square&color=7C5CFF" alt="Profile views"/>
@@ -23,7 +22,7 @@ const hemant = {
   solved:     "400+ problems across platforms",
   learning:   ["System Design", "Node.js", "Docker"],
   philosophy: "Write clean code. Ship real things. Repeat.",
-  status:     "Open to Software Engineer roles — let's talk 👋",
+  status:     "Open to Software Engineer roles",
 };
 ```
 
@@ -40,45 +39,6 @@ const hemant = {
 I like problems that don't have an obvious answer. Most of my time goes into **strengthening CS fundamentals** — algorithms, system design, and the kind of thinking that transfers across any language or framework.
 
 The rest goes into **building**. I've shipped a live production web app end to end: frontend, backend, database, authentication, deployment, and DNS. Turns out the hard parts are never the ones in the tutorial.
-
-> *"Recruiters skim. Code doesn't lie. So here's both — the pitch and the receipts."*
-
----
-
-## 🚀 Featured builds
-
-<table>
-<tr>
-<td width="50%">
-
-**[Project Name](https://github.com/ihemantroy/project-repo)**
-<br/>
-One-line description of the real problem it solves, not just what tech it uses.
-
-`Next.js` `PostgreSQL` `Auth` `Vercel`
-
-[![Live Demo](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-live-link.vercel.app)
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ihemantroy/project-repo)
-
-</td>
-<td width="50%">
-
-**[Project Name](https://github.com/ihemantroy/project-repo-2)**
-<br/>
-One-line description — lead with impact ("cut load time 40%", "500+ users"), not framework names.
-
-`Python` `Django` `REST API` `AWS`
-
-[![Live Demo](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-live-link.vercel.app)
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ihemantroy/project-repo-2)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<sub>👉 Swap in your two strongest projects here — recruiters decide in under 10 seconds whether to click further.</sub>
-</div>
 
 ---
 
@@ -190,6 +150,6 @@ One-line description — lead with impact ("cut load time 40%", "500+ users"), n
 
 <br/><br/>
 
-⭐ Thanks for visiting — if something here caught your eye, my inbox is open.
+⭐ Thanks for visiting
 
 </div>
